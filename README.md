@@ -1,5 +1,6 @@
 # BOCAH-PINTAR
 Aplikasi BOCAH PINTAR ini ditujukan untuk  mengedukasi anak dalam pembelajaran dengan di tunjang animasi
+kelompok F
 nama anggota kelompok 
 mia yuli yani(1941416)
 mila sintia agustin (1941485)
